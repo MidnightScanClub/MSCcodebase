@@ -5,7 +5,6 @@ set scrdir	=
 set inpath	= $cwd
 @ sorted	= 1
 set day1_patid	= 
-#set day1_path	= /data/hcp-zfs/home/laumannt/Poldrome/shared_for_washu/sub018/atlas
 set mprs	= ()		# hi-res MP-RAGE study number
 set tse		= ()		# tse T2W scan[s]; more than 1 are assumed manually interleaved; list most ventral first
 set t1w		= ()		# EPI T1W study number
