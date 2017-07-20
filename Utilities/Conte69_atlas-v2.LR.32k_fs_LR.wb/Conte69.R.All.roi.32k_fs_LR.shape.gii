@@ -1,0 +1,3757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="true"
+       xsi:noNamespaceSchemaLocation="true"
+       Version="1"
+       NumberOfDataArrays="69">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexRight]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.65]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-09-26T20:53:35]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{49ad7888-f1af-43f1-be7e-4f6832524913}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML_BASE64_GZIP]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH0090_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a60b3e31-d408-4dc8-9910-95245e9ead7c}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VGqwjAQBVB39rb2li5+CKVoJckkmaRn4IBYO3PTqqX44ePx//f46lVX22tlrh7rzSRTzT4W2Y/PuaxrjfW8ynry1i5rudMastbK52DV7CvmXi3zSnlXyVp63ZmRuyXjiKyZ80Vk65FPprXyZMmyQ4bWLFHzazLMmj1j7s7zRs2KPG/f5vWeEd3/OKNX7x59AXZTWrPzAgAA95D1/iNjrvP92uz7uEz3mFmyZMhRWjvNr6lV546eWVuZ1zZiTu8ZtTWzd0uNyhqZMapXhh4t+6v81XpdAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgDt71+wcAAAAAAAANd6/c/i9AwAAAAAAAAAAAAAAAAAAAAAAAAAA4H4y/x/fpzpvz5jxW8lWlzFyVqZM7z6l/aIyHee39Co9ThHVemwia/b8XzVrdq9zXzJzp3mjZo2Y03vGqM97ZO8R35OZ+kX1iujT2qNl/5H7le5T8vrIa/Gv11xtPz533Pbp+fP+V49Zx9V7ZVW/PgOr2m1Nu6xnl/fbjuuYneXO+WfnqM0+O8MdMgMAAAAAAAAAAAAAAAAAAMA4T7iNeFQ=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH0446_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{eecde056-2a81-45c2-94f9-aca98bafe6d1}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UtuwlAMBdDsrFvr0hGzDppA3s9+zrF0RhD7mrQ0USU4jt+f49S7rh5vkb1G75tNdEXvn/m1+VRVd6u2z7uq7WSXfGWH+No5/67Zd8y9W+ad3iN3ybrDNUH2jC35VuXsyTYza8Zc2TJVzNKbp0qGXedHvf5VZl7lGPk79mnnGbPO9t1xxt85M/vP6g3AtZaKzgwAABDtv3ujyPuls/u2qEyZ7i2zZPm2Zp63uxU9f2SGqNkRc1trhx1XzVoxp7Uy7DCrd2vN6HnWd2S/Ub1G9Ik8XuWv3r9LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8FRXFZ0NAAAAAADgG/6/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAFSU6bOXM30e9J3v4pzxnZ0jq+U8r6jo+Wc5Ks9dPXPlvFWzVsyZPWP2+82M3jP6ju6ZsdeIPr09eo5vPbbluLvH3Hn+3euLnue0PtZaPdc6rFP53FXcq9JOlX72Ku8SneeJ56JS/ugsrdmjczwhc3SGilkBAAAAAAAAAAAAAAAAAAA48wLHF433</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH1840_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e29662c7-6eeb-4863-a263-affb33c9ddbb}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3euKg0AMBtC+2b7aPvqyPwRZ1FUnM8noCRxobZt8Y+2NQvv5fH99dv3W0eUtqlav9VaxXqP9/K5js2I9bT1LvX09leuN66i6lrfkr1izZp8xd0TmkWtqzTvyfmh9DhmVdYacUfl6ZWzZh73zXcm2zlAxV+/n02qZKuWpkCEiR0SW7Pslav6dDFmzM+bOOu/MzFGzRsyJnLE1p2f/6N5L/x59AZ7kSi3Xz84MAACQqeLnpf8+y1XKMzrX2aqSo2eW7AxX6wmz79Rsax05705VndN7Rs/+dyujb3TPluqVLaJPa4+W26v61fo6AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG/3X2XnAwAAAAAA5nP0HcPeZVvb/25bn19O+04DAAAAAAAAAAAAAAAAAAAAAAAAAACACqr8Vu76d3ur/Udh5f9ObM203uc9s1XZ12d63anIY6q1KuQ4Os5GVOb8kfd19tzRMzMfRzPP6T2jZ/+Z+kb3jOwXmSmiR0ufiNfqEbe7epsr1z973SvvraIv39q+915sOb3eBpm2jtuZ7T0+Z/Wk9TxhLUevDTN52hqys7wxe3aOO7mzMzw5LwAAAAAAAAAAAAAAAAAAALP7AZPCYrE=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH2917_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{da2841a7-7c07-4f9b-bf5b-00164ee0511e}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3GFqwzAMBtDebFfb0Ud/FLqQZKntSLL3BA/Gklif7S4hFPZ4fH89Dj3r7Hiv7IqebwXbOUas7WzrWqFWnderVpvPe602n2eZS70yh/yaOf+s2WfMPVvmFbNm5+3JGZW99dkYtb6f5ovc/6rZZJorT+/n6JWpN9uIHL1rNDJDS47M/qN7H/XfHovseZfIXhk9I9b07h53f86j9h2AY62VnRsAAIDfqr2r7b0/ZmXcvs9mveNefd++M1P1/nfuy6c1c9/onpH9KvZp7dVSVcavMu6VsbPHOxtz1Fgjxom+Xs1Vvc8JAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+O/eKzsLAAAAAADAp3zPAQAAAAAAAAAAAAAAAAAAAAAAAAAAALSo9P+NX1mqZNqrSlne1ysy35VaPcPVyuw9Ok9vRff7tO/Iiux11nfGHlH7cse4lcccOd7oe0LmGD3Xt17bcl3rs2fkuVf+fv465+z40bG93+/dJ7Y/751HfUd7vILV5rXaXq0yn6P752xWmMfMczh7Rle3SvbsLC25s3OsnDc7AwAAAAAAAAAAAAAAAAAAAL1+AFdBDZs=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH5994_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{da315817-4229-4c52-b279-cf537b18ad97}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt11tugzAQBVB21q116RUfkVDbBIzH9tickc5Pg2eueTRh276/tu4y14jz8fRz/18u5+dv2dfae8pcq+xjr1X2Mnv+vWbfw8z55e5Xs2We6b6eJesM3znZM2bOV/K7omfG0lzHfK1y3s3U6vxF5InKlCWLDPPufcTc3jNnmddr1gozWvbP0Pdq7+icI7Kd9YvoU3vua9aXrn2tv7MOVlBao/MCAABkkOn96Pi+liFXpvfJLFkyvG+X1GrzR80urRn3WjqvZm6vWXerx4yrczL2Puufqee7vqN7tco0Yv2rR8916l5FfFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzGSv6H7RPY99o3q/61U7IyJjSWXPV5I1Mlv0eazN1fMaZ8/1e/2nnnfq6vUq6VVTkc/QrBmeOPsJM3vO63UdV5jRsn+r3i36RveM7BfVK6JP7bMV+Tui5bqWx1/Nc+W4s2M+fX78W4v7HkZb7Z5c7TlbZT+r/A9cbR+jczwx/+zZR2d4QmYAAAAAAAAAAAAAAAAAAADo5wfEIOhG</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7172a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e4d32f52-4aef-4c8d-af24-75b4f45f1c18}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3d1ugzAMBtC+2V5tjz5Vu6kqfhIIsQ3H0pG2NdhfOijiqq/X789r1bu2Xj8qc12x30yW9htV0e/Fk87NzGVP99tP5rrLXqrnf1f1PVTOL/e8qpa50nldJWuFnNnvi7337s+cV2c/km3GeyzT3Dx3yZIhx5PnR82OmDv6XNubP3Le3p6rzpnxf7qq/8zsmXsCZNFb0XkBAAAiZXwuyva8lul5suX5dka2DM/c0Rki5/dU9bmzZ86c11uZ51w9I0vvnv5X9B3dc2S/Ub1G9DlSo44/eqyaV2c/uwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOCJvis6DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/Mn3XZM93X36u2zpm6bWWOVvfxdlaS2tb+h+dd6aePD9qdsTcO8+bNWvGnMr9K/Ud3TNjrxF9zvY4c/yZ+2/vcb3H9KxvXduybm/N1vW99Pva39fWLv1MDS3nSjUt10gl39dX9T2tVXQue7nnPqLzPCl/5eyf+aNz3D0zAAAAAAAAAAAAAAAAAAAAzPUHD425PQ==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7202b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{efaa29eb-1bd7-45fd-913f-80afbb343040}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3WFqg0AQBlBv1qv16CU/ArZUW9fZndn1DTxSEp351ghGCsm2fX5sh1519vpdFavneiuoVtnHY4Zj9K4V1/SqFddlPXXX88R1VK3Z1zBzfrnH1WznyUx5Z8k6wzWn9dr487FSvlHHNipbdL7IXFHZ5KmfpUKO2Y9B5uzW+Rnv+ehzbeS8UbMi5xzN6j1jxuw9+lbuB3BVS2VnBgAA4Lv9/dr+vi3rHq7SPWWVe9wK99xXarVjcLWy5kbMXnneqFktVW1Ga2X27tE3uufdiuoV3Sdzf1W/7l4nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MmOKjsXAAAAAADAX/x/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAMap+l3AVb+vuOJvRUbnudvnym9qnj1/Vi37/Lbv2TY962rmleZnzc6Y23J+zjJv1KwRc3rP6Nm/V+8efaN7RvaL6tV6XYrsEXV97L1fz+1bP5e0bHP2+n8/X+2fe/+9fzzrSW0rvncrnpOrrWnl9WRnefo6Zl/DKvmzczwpd3aGlfMCAAAAAAAAAAAAAAAAAAAwuy/pjYi+</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7567b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{90f65c43-f4d1-40d6-844e-087b67c50e84}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VtuwjAQBVB21q116RUfSAhB2zjzsJ0z0pHaksxcu+GRL263769bi1mraz+uvO/de7LCHt3LuvZf06y1yzrutctarrSGiDkZlZ0/83+YlTv7+ovOXfGcicxc8fyOvq5XyTp7zhmu06MZO/J9mjtbtujX3rO5Il9XV8q0Y5azeXbJsOr8rv3vmFs9s3Je1ayKObOvIXt/qvY9quejb2Q/gFFHqjsrAABApxnvj2a7d5vpfvK3LJWZZrjf/m+GrCxHqnN25PyRWm2tlWucdc7IrOwZmf2zeo9WZc/uXu/6zdDjzPmV56mxOvs+AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFf1XN1ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHczf3/gjN9v+K5e/161t2erc88isr0ed/Tc7L36q0fmvjwfH13Z1+Xo/Iq60tzqmTvOqpiTPWPF3hl9o3tG9ovuc6ZX5Htc1bkj5x09J+PY/xx35vFPj336fPPp98fPI5+j6Pf8f9zF67W6g93WtNN6dljLu9f8Fa2+hl3yd+cYzd6d4QqZAQAAAAAAAAAAAAAAAAAAoM4PJVeDhQ==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7637_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{0358ec1a-0384-415f-a3da-3020ea400d07}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3Otqg0AQBtC8WV+tj17yLxQ1695mdj0DBwLVmW/VkJiCr9fvz+vUu67+XiN79V5vNlkq+jhkPS5XtevarCk67ffaaT07rOFd1hBfss+vFXOvdp2vlHeVrCvkzP7ZmDlf1u9Id3PNyFaTaWTGTHmyZMmQIzpD5Pyo2RFze8y8M7el/931ZT2GNdWr/9m2o/pn7jvq+ujVszVf7fn97PP/deu5AOaqqejMAADAM2T9rSHjPdJVpoiMR3mijleW+9sM99olGUZmuVs7zI6YO3vmzHk1lXXO6Bm1Fdl7RN8M/c56tlTvTK09WvZX+av1cwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeqKSiMwIAAAAAABzxvw0AAAAAAAAAAAAAAAAAAAAAAAAAAAAgs4zPTc72TOeWZ02Xbn/U/+h1SZbPfb7t27POMkTNf8Lskmt19Zkz582atcOMkf1H9R7Rt3fPnv169erRp7VHy3uzx36l+97d5872n5+tV9uWblfaq2RWa7V+T2OeHc/drtfkbmvaaT07rGWX983qa9gpf3SW2uzROWpyR2cAAAAAAAAAAAAAAAAAAACAvP4A7s4qvA==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7683a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{9d6e8ab4-a699-4178-8a4f-8f3974531944}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt2WFugzAMBtDebFfb0af+mFShQgkktpM+S0+aNrA/g7TB+nj8/jx2Pevo561mqJ77VlSpsq9F9euzrRV3epadstN+rpX2+bY9Ktc35K+6w6zZV81cKfdMeWfJukrGzJyV81V9rmjJ9ZptZM7WTKOvX6U8d7P0yrNChrs5Mudnze4xt3X2jPPOzp1tztGs3jO2s0bs8DoLgBytlZ0XAADoZ/s/mndfH50Tke3su0nUe8vZ96bId6krVSlPlSxVcozKkp3hSs0+O2Nu9MzIeVer4pyZ+4/qfbUie/bs16tXjz4Z5//3iDxPXau7f5cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgm71WdhYAAAAAAICrfNYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAcOxdRc7dy3Amz96xn3p/6tGaJbqyM2znRs7P2jtjbvR9jpwXNStizugZI/uP6j26Z7V+vXr16HO3x517F3le6zktx5899uwzydExrc9De8dtv3c2D/Wteu9W3Gu1nVbZZ5XfgSvssdIO2Tm+MXt2BgAAAAAAAAAAAAAAAAAAAKCnPxGWSVM=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7692a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e01e2307-9a61-43eb-bfd1-9f4346187f92}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3etqg0AQBtC8WV+tj178Z0ET9zqT3TNwoJA4862aWBtoXq/fn9eto9493ipjjVxvBud12sfvz/tsteLr7aiV1nLUasfnKGvJVzutobTfrOp1DM7XnVn5e54/M8+3nvv82zOPyt3jPVLWvjkzZmx934jMlzVbxlwZM/XMtVKWlXLsPD9qdsTcmjktMzOvrXbejOOWtf/djKvzpbV3S59ZfQGyKa3ovAAAAPznXu35/om6tz3PHfE30pIMUff9kfOjZpdUxMwec2fOq6msc0bPqOn9dEZtRfTt3bOlRmXr0ae1R8v2M7dTddV6nQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAdfarofAAAAAAAAGfnzzCufvb5BgAAAAAAAAAAAAAAAAAAAAAAAAAAAOwl6/8nzvgdkbPyfOo94zs0P/UvqafnXkm/1tmla2ip6Aw7zV153kpzRs8Y2X9U72/o2XPtvXr16NP6Ou61bcu1bcQ2Jc+v/T2l5jklj989dvfcq+3eXcPJ48m59I12WVd0HutZby0rrGO1NURnackfnaM2e3SGHTIDAAAAAAAAAAAAAAAAAADAPH8o76RZ</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7869b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{7b6f3e47-0c6a-4423-a9dd-5c8bb2d83b21}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFOwzAMBdD9Gb/GpyPepmmUJXFsLzuWjkC0tW/arazigdvt++v2p9+62r6qY+1cbwedqvpcvMM5ui/rOn9NXeuT1zLbc3ftuBbZ68i4DjvXkXH+q7P/Nz/7/S9zn9dGh7wRr+OMrKs5u2WMvO9V5OuW7b5Ht1zRJU98li45IrNUZ6i831TNrpibPTNz3jvN2T2jsv+u8xN5fe+/ApxipqozAwAA0F+X58dnz7SP31fkqHjurs4wWifMrpg7U+8yL2vWbHVay87+s1WROTprZL+oXisVlaXiWJVXq7+XAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4NM9VnUeAAAAAACAUf7GAQAAAAAAAAAAAAAAAAAAAAAAAAAAALDfzP/AHDlmZPtVXc2/yjKSM6MqZ1fP77Lm7JmnzcualTFn94yd/Xf13tE3umdkv6heEX1We6wcP3vszHGj9+SR/V/d95X9Rj/7/LXt8efP+rxSV59h6OnUa3fauk56n5103zhlLSes47Q1VGdZyV+dYzZ7dYZPyAwAAAAAAAAAAAAAAAAAAAB5fgB0U7n8</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH7930a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{aaef20ab-bb14-4d78-a602-4d9d194e6856}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFOwzAMBdD9Gb/Gp6M97KXa1ibEdpIeS0cg1trXY2hUSOXx+P15fPSsb4//14wVue8MZqvq52OF5+hVO+70LDvZJ7PuuMestfoOd8g+W36Z42ulvKu8jlfI2fvemJW7NV/m8zprthlzzZZplywjs43M0ZunOkPl/KrZq8/MnDfTbjvMiOwf1Tui7+ieI1+DAD1aqzovAABApRmvi2bM9C1jZt7jtezr8+PHzBxV19vV1/0ttcvs1lpx18x5rTXzTtG7RPbvrYi+2VlH9hvVa0Sf7PNHzFZ5NeK9AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO7oXVVnAgAAAAAAuMrfOQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAdRd93+dv9nV9fOz727r7QPTmP51/535pnx7fUp33OckTUlb7RGVrmZ2eoml0xN3tm5rysWRlzVu4f1Tui7+ieI/uN6jXi9Vp5fu+5Pee1ntNy/NVjrxx3dszZ71SRP0fMb9fv3Y577bbTTvvssssOe6y+wy75q3P0Zq/OcIfMAAAAAAAAAAAAAAAAAAAAkOcPCSiOtg==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8033a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{63c2e30e-fb3a-46ac-a4fe-28d4b3ed5b9c}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFugzAQBdDcrFfr0aPuUAUR2GOPPXkjPXVBPPMdCCmrvF6/P69Lf/XpeK8Va+R+V7BSZb8XO7xHx7KvffZlP3X2smpV2Me35L/b69hzdEVln32udswdkVneMVln3XN67nU7Z8zKF3WfyMq2Qq6zXhUzrXCeVsuywvWbnaF39v+/M/fe+j5Ezr07e/bMmfN22lP2jJH9R/Ue0Te6Z9Q1CNCipbIzAwAArODs+Sjzmen4zJb9HLfSc+UqWe5W5QxPKnN2ZIYdZvbOnTlv1qwZc0bPaK3M7CMyR/eM7BfVK6JPb4+e9TPXqbbq/V4CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAb3ZV2bkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGKfl9ysjfvPy2OPJ72l+Wvdp/fHYkzqb3VKt684yzK7M+Vmzr66fSjNnzps1q8KMkf136hvdM7JfVK+IPr09eta3rm1Z93TNk9fffe2dz+ad4y3HWqv3fzXmq3ruqu2r0ues0n2jyl4q7KPaHrKzfGP27BwtubMzAAAAAAAAAAAAAAAAAAAAwLreFjOK+w==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8095a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{48c71f83-ce45-4869-bfd2-3a24ec184f3b}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3etqwkAQBlDfrK/WRy/9IUhQk73O7OYMHArVzHybiOki1Mfj9+fx0X99e7xF1hq13iyOa42s6HOxymvyWbuuzZqsZ2bdcR1Za/U1rJxf7nm1WuaV8q6SdYX3iuwZM9+7S7O95huZuybX6PPZM1OPXL3ztOQalaU0T4Yc0RnuODti7uyZM+fNmjVjzugZK/YedU4AdlFT0ZkBAAAiHfdFGfZJ2fZtn/aSEdmy7G8z7LlLKnp+7ww1terc7PNaZmadUzNv5f6jemfoeda3Z79evXr0ae3RcnztsWpetd4nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4M7eVXQmAAAAAACAK56fa/iMAwAAAAAAAAAAAAAAAAAAAAAAAAAAyGaF74c7/o/XDFmPGb5livoevqtzr9SMfGdzSuvsupTk67G2nue15vjRmXq/Fnrkqzm2tN4d3+P8t+ao6dFa0Rki52eYu+vMmfNmXccZr9XRM0b2X6lv7549+2Xq09qj13169HGl16/k+VefW9qv5vErf2e9/u7151lm8tv52u22rt2u1U7r2WEtO7yX77aG6Cwt+aNz3Cl3dAYAAAAAAAAAAAAAAAAAAADI6w95sHVY</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8126b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{6f140285-6732-4c65-88c1-455ee48c9b70}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3U1qw0AMBtDcrFfr0Usohi4SN54/aeQneGSRjvTJDSRe+fH4/nq89ayz91tlrhn7ZpKxoq9J9utzlL322avSLs+66y6Zyw7xJfv62vEzs1vmalkz5K2SMTJrz++Q2dmvZlt1XTPmypapUpajR3SOEdclOsOo+S0ZRs6+Mv8OM1fO22lO9IyZ/XfqO+o6/H0FiHS1ovMCAAD3kPX+I+O9UbZ7t7P7ydXZstzn7pBhdpYrVWX21YqY2Tt35bxVs1or0y4zd5jVO0vPs74j+43qlaFHz/nWsyvOqN/q+Y4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAu3tXr/4mOisAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBhp2esHVnPnhuXyQ45/3sOXwbvMkbn/bQyZlqZraeO869eozJ9kjlDjk+yrKoMOaIzZNw9Ym61mSvnVZoze8bM/rN6z+g7uufo7/cRvUb06e3Rc771bMu5iO//CnXldx05VPvfVfxMVt8pOotdanzGqu0QnaUnf3SO1uzRGQAAAAAAAAAAAAAAAAAAAICRfgD11Cn9</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8284b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{1f8fc6f6-65fe-40ce-ae03-bc66911fbbf0}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt101uhDAMBtC5Wa/Wo3c1UhdMG/JjO+FZepsB7C8BDeL1+v56hataGXvx5L3P3ovKe3NVp67Nms5bT+Wyjjolf17tmn3H5363zCdmzc47mjMi/933fPQ+z8q3ImfVbLMzzchWba8q5ZmdpTfPKXux6/zd7/udDNHPfOS8qFm7rSViryJ6r+i74pkByNJT2ZkBAIBnqfYdUvEbqdq3W6U8Vb5zWzKsztJa2fNXZMianTG3p3aZFzWrtyrNWNl/p76ze47Uqns0o89oj4xrVVyNvpcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4Ml+11+/Zea6qvc5lTJdZayYrbVfz7GeXC3X3+0/skcz7v1/Pd+/RWa46h05v7XnqnW/e7fmi6jomZHzomZFzFk9Y8feWf9NWf1m9ZrRZ7THyPW9146+i2ef33runfdlz/FPx65+79kH9nHivTvxmTxtTaes55T/wBPWcdIasnM8MXt2BgAAAAAAAAAAAAAAAAAAAGCmH/2+lus=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8301a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{97aa367b-ee17-456a-8733-14772769fa28}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt1wGKwkAMBVBv5tU8+iIiiGyr02ZmMvEFHgtqk5/W7W4vl9v1sulee+8flbl67JvN667Ocf3vZvaqtlOlXZ5VaZ9f2iN7rb7Dyvkjc4/cM/Kcj7pOUfecUd+tqHM8Im/Euc2Uc2v+iPtLdMboas33miFTtpF/L6pmiswVlScikxx5Msyc/0tzo2Z+O3vkdR01a4UZM3fo1Tvq+gJU11KzswIAAL/h+fyR7Tkk4zNStme4lmfL3hlbq3KOI1Vl/qzZR2ulmSPnjZpVYUbP/r169+ibuV9Ur4g+Z3vMOPbIca3HqEcduV8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/eanQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGCvZmerkHcv8+xcLXnf33/9mS1rlvN8pEad1zOVMVOvXFFVMVN0tcztleHbPCMq2+yqc2fP6zlz1KwZ94eV+o+6h0f3zNYvat+IPmd7nDn+6O/biGNaskV+7tPcvf8dtt777/X317Y+w5oqXr+935FVVdupyj6f7smrqLbH7By/nH92BgAAAAAAAAAAAAAAAAAAAIDb9Q8OCVy5</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8357_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{ab096442-442d-4807-a06f-2138e466da24}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFuwjAMBdD+2X5tnz7xwCRQ2UjiOk44lo6EBrVvuoauTzuO76/jpVv99X6kKpW13lkq1exzsdK5utWua7Omevmfy1rq1er5b7X6GmR/7JdRUbkzf0cRmTOvrYh9mZV3NGvWvh2951TPWC3fff7Z6wrZKl531fZs9TyVskTnqZBj9n6K2tM9OVaf2zJ753lZs3aYcWX/yN7PryNd0RNgtpaanRUAAIC1ZT9bVnm+fed5++pcs5/7W2qX2a214syeqr62jDlXz+ip2b17K7NnZL+ZfZ57zTy+91iVV6P3CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOD4rdk5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYw639Fvpp7VhFzXvVprfsxIznO+vTWu+f4yho9p9HzMzN80tzsmZnzsmZlzLl6xoq9r+gb3TOyX1SviD6jPUau5957Q89xrce0fP7dz/b87fFfr5b3zn7eszaYYcfrcbd9tst6dvkO3GEdq69hl/yzc3xS7tkZAAAAAAAAAAAAAAAAAAAAoK4f1eGxxw==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8413a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{8ea99aca-0d50-430b-8425-8f5967595cf2}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFqw0AMBdDcrFfr0UsXhizaeDwjz0jjJ3i0UEf6slMSk0Ver++v179+69Pfe2Sv6H2z+WvfVbX6XDztuZm1dtrlqN12sku+ssP6qpy/avaKuatlrpS3StYK7wl6Mr7nvDt3b74Z5zc6W1S+3TNlypMpy2ieDDlWZ1g5v/LOK2Yec1vmR17Xs3mV5pydvyo7zOwd3Tf6+RLZD6DX1VqdFwAAeI7jHiTTvUjGe6Vs93GZ8mTJ0lK7Z+ip6rNXzJ09s7cy7zZjTm9l6F+pb3TPyH5RvSL6jPYYeXzvY9W8GnmNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgKf7VKuzAQAAAAAAnDk+0/DZBgAAAAAAAAAAAAAAAAAAAAAAAAAAAMTL+v2GWb97Meo7IqP2aq3ePFf6XKnW6/7+s6XP1RrdI6Iizmf0/N1nr5i787xZs2bMuXvGnf3v6l2hZ2S/qF4R1yPy8aOv03c+7s7jW49tOe7smJb3NGe/j5xr8tvt2u36nNxtp5322WGXXf5vqu+wS/7VOXqzr87whMwAAAAAAAAAAAAAAAAAAAAwzw9GqHtQ</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8508a_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{38e2bcf4-0b63-4962-b69e-7880f549cd4e}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VtqwzAQBdDsrFvr0ks+DKY4ifUYaaScgUMhsTV3bMdgAs3j8fvzeOlZ795vlbEi583gatbZNfuYZL8mj9pxpmftONdO8+wyx1FRs5y3H3EcIucYdT575x99PfbMP/rztGr2HrlH38OiM6+Ud5Ws2XJmynjVO1u+c/8R12JNtozHbMR9JlumTHl6ZmnJtFuG2f1Lc+zS907v0XOu1itLn+geK64dcUx6X5+91gNoUVKzswIAAMyW7fnoyJIlV6bnySzPuBmet+/Wjv1LavW+pbVSv5rKOlP0LJnWvrv+CmvWVHS2Huu0rtGyf+2+Nfupumq5bwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA3e1WzcwEAAAAAANx1fLfhOw4AAAAAAAAAAAAAAAAAAAAAAAAAAAAgo/NvRWb4f8pZfsvyXdUe3zvb9spxPqel1fO81FZL/+P11vqUoee8nzKU5IroParn/94j+o0+npF9Rl2PEetHrR2xbu81e64XdQ+uWat1jZb9a/et2a90n9ptW9cs3ebqvfPfq9dfvXcnD7nteu52m2u3z9lO8+w6y+ws3zrDLvln56jNPjsDAAAAAAAAAAAAAAAAAAAA0NMfZsjqew==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8559b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e19d31f4-7089-4045-9e10-2c5f3400af20}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFug0AMBdDcrFfr0SsWlShKaBhmxvbkWXoqUsD+TlFKVn08vr8eL2119noP2Wr0vtEyVfR7cXbPZ6xVfu/HWm2frVbaZauV9rFHnqqcfavK+aveOxVzV8tcKW+VrBU+r7NnzPwccjfbqMxXcs16T7NlypSnZ5Y7eTLkWGV+pdlVZ16ZO3PerFkz5vSa8WrOyPw9s+/njOjbuydApJaKzgwAAMBfx+9sx+PIPNHfKbN8x82Q40qtNv9qVZ47e+bMeS2VdU5rZeifqe9/vTP369WrtXr2iLhWzau7fycAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgk+0rOgsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANbz7vzDPzntWrVnOerTUf7v8Hu9/9q5337NRFTk/avYnzIyaNXLejDmjZ1TsPaJv7549+/Xq1aPP3fvxzvWt17Z8ro88/85zydVzjs8Q+9ePx2fPFmc7PetDfu/cSxWtuNdqO620zyq7rLDHajtEZ7mTPzrHJ+WOzgAAAAAAAAAAAAAAAAAAAAB5/QCmkol9</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8853b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{2aa2feb0-f0f6-422c-a36b-d0e994f9f5b0}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt2Vtqw0AMBdDsrFvr0ks+CqXYybylmRzBgUJi6cpOY0wej++vx61nvXq9R9aatW8W2Sr6fOxwjn7LXnvs86xP3id7nbLLCXvIH1e7Zt/xc79b5p3y7pJ1h5zZM9bkW52xNtuqjBlzZcvUmmdGJjnGZ2jN1Tv/7u/Zs3uuTc//Quvc1TNXzttxTtSMHXvP6Dv6PI/sB1CrpaIzAwAARPr7bJTlGSnbc1um58ksz7gZcpRU9PxZGWorau6I2SfPa6msc2bPmNl/Vu8ZfVtrRb9RvTL06Dm+9Vi1rnrvEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPCJ7io6FwAAAAAAwJW/v2P4nQMAAAAAAAAAAAAAAAAAAAAAAAAAAGCMVxWdrTRvdKbacxudK9P1fzfnf5a7bKMzt/QrqdnnqzZPT7aWY1flGZmp9DqU9HmXq/ZcjKiSnqvmR84u+UyPrKu+s2fezZg572ruzDphl1XXP3vf1d81Eb1G9Ont0XN86/dHy3G99+4R7x3xnlevl96PSrNcHUtep167E/c6baeT9jlllxP2OG2H6Cw9+aNzfFLu6AwAAAAAAAAAAAAAAAAAAACQ1w+w2Wul</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8860b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a910fb80-1b3b-4ea8-9f4e-9151cdf3b53c}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VtOw0AMBdDsjK2xdNSPSFUhbTKP2GOOpSMBzXiu09IQIcG2fX9thx717vEeWWvWvFlkq+jzscI52qviTI8yk3nurCqzVJhD/rhaNfuKr/vVrnGteSMy9+R8zjs7f885ves8j844OmfmfFmzVc40qjKdn2o5erJEZ1h579YaNe+VHCOf5zP73rnfajPN3iOq/6zzM6Nvxn4Ava5UdFYAAIBIGe+NsmXKdA+Z5f42w7129D3/lYrce2SGiH0r79dSWWeaPcvM/rN6z+gb3e9dz0x9env0rG9d27JOtVXP+zYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACw/aroPAAAAAAAALvX3108f370MQAAAAAAAAAAAAAAAAAAAAAAAAAAAFBf1r9N3Pv/IY/Wne25H/OpZufpqTPn990eo7KMnmvFDJH7R+0dsW/l/e7a6459Vu4/q/eMvqN7juw34zoX1aNnfevalnVXv7evHH/22DPXhU/HXP1Z6ujrfz1+NjO5VXzuKr4mq81UZZ4q74EV5qg2Q3SW/5R9zx+dAQAAAAAAAAAAAAAAAAAAABjpB6A0vDk=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_CH8926b_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{98535ad1-3769-4592-bc07-c1ec66243431}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3OtOwzAMBtC9Ga/Go6P9mIQGvSWO46XH0tEQa+0vbaFUSHs8vr8em561936PqjVqvVVUqr18jtHfWm09r7Km+mtaZR3Pso46Jf+8is6dtd6oY555nqJ+VrMyf1Le6KyjKuoeWuFYbmWocq5n/F6OzBaZr2IuecZnqZCjQoaeHDPnz5o9Y272zKh5Z2ZG9D8zr7Xv79f3ryPWstX3vzm9/d+PV3Tvo3MT1TfqWqnUL2rNEX16e4w4d7CylpqdGQAAuIeqzx8Vn42qPcNVynOUJSvTmaqSYVSeq7XC7Jb6tJmZ87JmtValGSP7V+p71Du6Z2S/qF4VevTs37qvyqueewQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADc0bNer+81OxsAAAAAAMAV/s8BAAAAAAAAAAAAAAAAAAAAAAAAAAAA91bxM4pHfX5ya7+tmrHOvYrIcaXnUUXM3+t7Zdu9a2BkHZ3zWbMz52bMzp6ZOS9rVsac0TM+sfeIvtE9I/tF9YroE3Uvatm/dd/efa7eu6O2PbPd0TZH7539/tl78dm/YZhvxXO36jW52ppWWs8qa1lxHbOz3Dn/7Byt2WdnuENmAAAAAAAAAAAAAAAAAAAAyPMDTDiIvg==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0056_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{02887b29-821d-4773-8ed6-753d42560f71}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UtO7EAMBdDeGVt7S0cMkJ5Qf1IfV7mcY+lM6LR9nQ6EiAGPx7+vx0s/9e71XpkrYt9MXu26q3afjztcm9nLTrvTPq+K19sdd8lcp+9QPXvGHU7MfVrmk/KekvWEnNnvj5nztWZblVem+DwzM1XIkSXDaJYZn0Vvhl3X5I65q2fOmHd1ZqU50ecte+9n/bP2BMigt3bnBgAA2C3b89G7Z7YdOZ/l2fVsmeU5N8Mzd0uGiCytVWH2jrmrZ/bUylk981bMydj/6oyo3hF9Z/ccqahsM/qM9hh5/8r3qb6acW8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAO3pVu3MBAAAAAABc5W8cAAAAAAAAAAAAAAAAAAAAAAAAAAAAcC9Z/wdjtlyfKnp2S5aWXL/HrKie81otQ+/1FTW76tzVMyvOWjEnekZk/6jeEX0j+432zNRntMfIeZl1j494T8vxV4+98jP60zHvXv/0e8/fY/7/Wktm8qr62VXbq+L3WaV9quxSYY/Td6iSf3eOO+XenaFyXgAAAAAAAAAAAAAAAAAAAE73DcAMaKk=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0056_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{8804fd0b-e4ae-49d8-a922-fc1263870aeb}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3WFqwzAMBtDcbFfb0UcZg22QJlFkW3ae4P1aLX1OS9JQyLbt82Pb9ap3f7+jarXabxWObd3jc1Sr7m3Ffa2yj5+yl3o1e/5Xzb6HmfPL3a9myzxT3lmyzpCz+vmscr7Id4oeWa9+3+lxDKOZWuWqlKdKFhnGzr8z+06WO5+/6NzeM3vO6zVrhRktj1WL3lk9AZ7gSo3OCgAAwF/V7tkq3U9WucetcL99tka+F63mn9139vyr1XvmbHuMVNU5rWdEa2TvO9Ura2a/rF4ZfUauj67tsUZ9V8a1AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7qTI3OCAAAAAAAPNe73yr8pgEAAAAAAAAAAAAAAAAAAAAAAAAAAABkqfas473nL2c8lzmy/ijPmVy/XxP9/5mRivbIzPC/X3TNnfmRytj3bLNHzM36jEXmrTKrx5zWM1r2b9W7Rd/snpn9snqNuqZkrY+uzbgOZr7+7LX1yjX4aPaIcy9zWPW9W3FfK+1ppfPGKntZbR+jczw5/+gMT8oNAAAAAAAAAAAAAAAAAAAA7PkCqclb+g==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0068_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{665c8ea5-eba0-4ba6-ad56-6358db0ec74d}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFugzAMBdD+2X5tn17tYVJVAYIQx044lo46lWLfQAviaa/X789r118dbW9VuSLWW0mFyj4GlY/NUVnXumuqXk9cS/WyhvxaOXvV/DPm7pV51Boj8kZlnuXY9rjvRB/Puxmjf4t38lXJ9jl7xPXraq4R19OV8qyapUKO7Awzz27NkXG9GD2zx7yzM0fN6j1na2avGXtriuj/+RrVH4BjVys7LwAAQKaKz0XVnte+nyG//87KkvmcO0OG6HN0pTJn98www8y7c1ur8tpGzIme0VqZvWfo2VqRvXr0ydy/dV81ru7cIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp/is7BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkuPv/Pc9W7xytlT2/JePn+xlzV5pZ4TzOOCd6RmT/qN4RfXv37Nkv6hqc0ePO/r3ugRH7RHz2zOfObL+6bev9o3tiy32cOlY8d1vf3Znt/R5ntsp6Vjo3K6xjpTVk53hS9plzZ2cAAAAAAAAAAAAAAAAAAACAut4xV7NF</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0072-01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{3d4183b3-e348-43f7-9dc3-424cdc873b0d}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt2EtuwzAMBcDcrFfr0YsuAgRBYlsfipI1BAZdxCKfZMR1+3j8/jyGm7kyzmPns88+jxXO6Fn2tcZ+/mv3/cxcu+1j5pI/r+QeV6tlXinvKllXyDl7xpnzzfq7oPV9JyJ3SabX+VHnWZon8v72ytKa504ZarPsODtj7uj7PHLeqFkrzcjYQ1TviPvbuydAppJ6Xp+dGQAA2MOsf4dE/9+sV6bMbFfyjMp2tXbIkZ2hpDL33nN+aWXMbJ0786zaeSPmRM+YqffV/hF9a2tEv169evRp7dGyXs1fLc9tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGA+z8rO8S3Xa773n5l5vlVrvvc+n3rX1PuMb7Nr9tyap/asI7PsMj/rHuwwM2vW6nOiZ0T2j+od0bd3z579evXq0ae1R8v61nWl7y4la0quv3rtlevOnqtHnx+9b529C11dC/Rxt+/X0bNoJWfP3FXcYR+r7+FO+bOz1GbPzlGTOzsDAAAAAAAAAAAAAAAAAAAAzOsPI8JeNw==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0082_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{bbd32bca-9f08-4ff1-abad-8eebdc4e7d30}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3GuKg1AMBtDubLY2Sy/9IUjRqvdhcq8ncGCgmnxpZVop9PX6/3vt+tSvx2tlrJ77ZrHsud7X85v7uvzUrLvNsM93npF3Wcq1Fp32d9khvmbPnjG/zP1rpP+Ro2QdIWf298fMn0NKs2393TJ3Sa7ez2e2TLLkzBGdIfI6fdLc1s/z0eyRZ+3NvGNO7xm9+gMQo7SicwMAAETLdm+0dd8WmTHTfWWWe10Zzr8WPbJEzS6p0WbeOe+uWXfMqame/SOzj9Czpnr1atEn8nyVv2rflwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOCpvis6DwAAAAAAwFnLdxu+6wAAAAAAAAAAAAAAAAAAAAAAAAAAAACyWP9mcpbfTt6qVn1rc5Rk2jr+bN8rVbNLy4rO8MTZEXPvnnnnvIg5o87o2b9X7x59W18zLfu16tWiT22PmvNLzy05r/bzxJVj944/c9zRMWc/01y1Pr+2F3GOrpWRzbbXbK/VTPvMsssMe4y+wyz5o3M8KXd0hpnzAgAAAAAAAAAAAAAAAAAAMLo37ey0ww==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0082_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{5eacbc2f-5c0a-4fed-a329-18924d4b503f}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3etqhDAQBtB9s75aH70spWBF3ZjbJPEMHChVZ75EcJH9sa/X99fr1LuujpcasVqudwQjVPQezLJP+1pxTe+ypjXXM2qtshZriK+Z88+afcbcs2We6RlZ8lnbM3duzp57/ZR8LTKOmk2mPnlWyzLCPYreh8j1R81+wsyee9trVo0Zn2bVWsvZnBr9z/asZm8A8qRWdE4AAAD+O3pXi3x/274/Rr9XjvKOm5KjdZ47tdr8qNl3a8aZPef1mpVTo82YsXeLvjnVq1+tXhE99n0iru1xjfqtkuc2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPNVR/f0/OhsAAAAAAMBdvuMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVrf9/ckR7H8Ts/WslH1omeeqemVJqZY57tbR/NwspRUxcz97//dZttYVNavlvB5zWs9o2X+mvrV7tnqORPcp7VH6bM+5Nue6ks/AO+denZ9y3tHnW+rxT9dujx31TMnMuFa9d09YV3QW92j9tURnefK9mDn/zNkBAAAAAAAAAAAAAAAAAACA1fwAk7jzbw==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0090_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{5a967361-3c25-4399-9c27-6c28b516bc90}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3Vtqw0AMBdDsrFvr0ks+AsXEr3lJMz6CAyGOpSsnbTD96Ov1+/Pa9a6j4zWyVq99s8hQ0dcg+/XZK3vNsc+7VtrlXSvts8ouT9oh6x4z55d7XM32OZnp+3iWrHdzfrKOzF6SceT1bZGvV8aVc7XOly3Tillq82TIEZ0hcn7U7JlnXp0/ct6oWbPt0rP/yOw93l+A1dyt6LwAAMAzzHb/EZl3e7/2eRyVKdM9ZpZ73gw5ojOU1Oy7R+xcWjPMGzVrxJyaGVdm1Vav3qP7tu6Zode2X4s+keer/FX7vQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPtq3oPAAAAAAAACX8nQMAAAAAAAAAAAAAAAAAAAAAAAAAAIDsMv//wL2KzjUi251eZ9U6U6tsra7LnZ7b17XOc3XHveP/n7+T62ivb32uPH/Wo+Sz2KqeODti7uiZUbvNPqf3jBl79+jbumfLfq16tehT26Pm/NJzS36G7p5T+l1b+7qz3+FXjn0e7/U/On6Wh/xWfO9W/EyuttNK+6yyywp7zL7DKvmjc5Rmj87whMwAAAAAAAAAAAAAAAAAAAAwzh8z63eV</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0095_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a256b4e0-06b9-4fef-9171-7160fba0b529}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3d1ugzAMBtC+WV+tjz5Vu5mqQUOwiROOpXOzgv0lrD9oUvd4vJ6PTe/ae7xH9YpebzUVqjXnHfdmr6xrjvW8a7U1rbSeO62jes1+HWS/vmbMPdvv+Ux5Z8k6Q87qGSu/d1fNdiTX33yZmXsyZe5lpTxVslTIMTrDyPl3mpsxq+Wx6Fn/PZ6xf2fnbPX5liFyn7bynNmbveOzemftSW/f6IxVskX0qXB+xPWGWR2p0VkBAIB7qXYfUvH+qHqekfeWVe5zK+RozZCVpbVGzo6ef7RmnHnlvJ6qOmfm/lm9R/ds6RvZr1Kfsz3OnN97bs95R89Rv3XmdRsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADubK9GZwMAAAAAAPjG3zcAAAAAAAAAAAAAAAAAAAAAAAAAAAB8RytEqPgcqvQ9zJX+92VLXXFtz1brjMwMn1mO5LyitvZjxNzVZq4464o52TMy+2f1znxNiuqZ9dod1ae3V+T5R3v0nhvxnh55fOuxEcd8e6898vOWyvjsQ55Vr91q61rtebbyekZnufs6VlrD6Bxn8o/OAAAAAAAAAAAAAAAAAAAAAPB6/gA3N3/K</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0095_03_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a27a03e9-4a66-424e-be4d-182070f73155}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt10FOxDAMBdC5GVfj6Kg7hJhRk8ax6z5Lb4Fman+3iNDX6/vr9dZRnz6/ompF7VvFu12zKvt+ZO8/Ul1367RTt2fUaZejuuxxVIc9uuevXHe99zLH151+N+6S9Q45q58plc/v0Wy7Mo7k2nVfO+e5mqlbjgoZZnN0mD06/84zz87uOGvHnOgZd+j9t39E35U9AbLNVHZmAADgWaq9h/x+N6qSrdr726c8u3NVecc9U9kZsudH5hiprLmrZu+eOVPVZ81WpRmR/aN6R/Rd3XNlvyu1uk/m9ap+rTibAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe4KjZa97VlSwjfUbqSpbZ+zCSaSb/zsqcnzX7CTN33ttOc6JnRPaP6h3Rd3XPqF6rzoHZPld7rDxbI68bvWbk79vZ75753or/KT59/rfnfz+fmUdNnZ9dt726PatO+3TY5czZUl23HbKzXMmfneNJubMzAAAAAAAAAAAAAAAAAAAAQF0/opWXqg==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0095_04_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{4e4a857c-1391-48b7-a3dc-9da182d659c2}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt101uhDAMBtC5Wa/Wo3dRzQYhCPlxnPAsvUVVsD8ziBk+n9+fT7jMNeN6RF/72Z/Bk3vEfflfdtt7p+y10z677PKmHbLWyvlXzb5i7tUyr5R3lawr5Mz+nZL5uztrtqe5IvL2ytQrV888rZmyZMmQY3aGmfNnze49t2T2yvOiZkXMGT1jZP+rXjW9SzI+6Rux86iePXr1uHdae7T0admj9txe1w5mq6nZmQEAgHfI+g6S8R0p2/tbpnfK7DmOeUZme1K7zX9aK+8cvWvkvJrKOmf0jJH9R/Ue0bd3z579evXq0ae1R+S5Kr5avycAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVvSt2TkAIhyfeccqOf+ud2mfHnXXd0aGs+s8avYxx12uUbOv5kZU9J47ztphxsj+o3qPfiZl65epT2uPlutSe27NebXHl5xTemzJcXfH1Pzv6vfJ2d93v13I7exe2sFOe3332GWnq+fYinbYZZfPZPUddsk/O8ebcs/OAAAAAAAAAAAAAAAAAAAAAHn9AYxckzA=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0123_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{5f2cac2e-1ca1-4f1e-a51b-861453a565df}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFqw0AMBdDcrFfr0UsWhVIS4xnLkmbyBG9RHI++bLexCTSPx/fX461nHW0ftUJFzttRp6o+Fp2Pzasyl5mqapc5nrXLefm0GTrOIXt+rZh7tet8pbxX3mszs8/kzD7WURnvyhmZLzpjx0xdc3U7h53yyNEnQ2X/qt4VvwuRPc/0zeyX1WuVHhnHKnPtO4579DUDUGmmqjMDAABxfu/xO97rd30O+Z+rwzNTt2e5s3kyco1Ulxx3ZVmpf3SGqt7de0b0nanuvTL6XKnq9Vda90rdnTFqrYh1Kvef3VflVdT7EwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHySo6rOBgAAAAAAcOTvZxo+4wAAAAAAAAAAAAAAAAAAAAAAAAAAgGOr/e/O1b5bbaXvhFs9a3Wms3lfbeuUr+N10DVbx1xnz+W7fNFzzNSZ/bOyjGTN7DuSobJ/Zu+/P2f2zehX0TOzX1avir8JK61/19orrBm5XtRaEetcPadX9s/cb3Sfkdeffe3IvcvR9pltszVzL0WNXc/djnPtNtNO8+wyyw5z7DZDdZZPzF6dYyZ3dQYAAAAAAAAAAAAAAAAAAADo6wc7TklT</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0123_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{53575377-c9c5-4e52-933d-657da1ba1670}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3WtKw1AQBtDszK25dAki5EdNc58z9/YMHFDazHzTiG0QzHF8fx3/Ouvu8R6y1eh9o2Wr6Nfj7uc+W+14/s+yU+5dztppn0/cI2utfh5kn18r5l4t80p5V/kdskLO7Blr3rtn5c2arTXXiHzZMmXK0ytLa64dM5TmiJwfNTti7uyZq86KnjN6xsj+o875iL69ewJEK63ovAAAADwTeQ33N/t6LRlxXZnlGjfDdXd0htLaYfeInWtqlXm1lXGn0bus2HtE39qa0S9Tn9YeLcfXHjvjGPVbLe8RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8KnOun59VxmyZsgBAAAAAADk5W8JAAAAAAAAAAAAAAAAAAAAAAAAAAAA9OJ/3u732kXkencvxtn3anxyn8pXj4/Y4el9NK/f391r8+6xlixPnle604gMI6v03O0wO2Lu7Jkz50XMGTVrZv/eM1bq27tnz369evXo09qj5fjaY2t+xms/Q5S+xz55r7973rvnPO3Rq0o+CxFv13O341677bTLPjv9Dlx9jx3OxS75o3PUZo/OAAAAAAAAAAAAAAAAAAAAAPT0Azf7ppY=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0403_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{79630c61-d8cb-41aa-a464-7c06043ac576}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFuwkAMBVBu1qv16BWLSigKQ5KZsZ3hWXqLFsb+phENKx6P35/HW89qPX5V5ZqxbyXVKvv1qPzabMte6+5UvVbaZ4UdnrXCHnffQfb4mpF79r4jM0f8nUbljbiuRmS9Q84qGVszZ2c8mm9vZpXXLvp9t2KuFfNUyjIiT4XrJjvDyPlnc2TNzpgbPTNy3h13ypoxs/+s3jOupdFZszMA/Dta2TkBAIDvUPUzSMVcr5kqZKv0ebLKZ1wZcuefrYy5d901cl7UrCtVbcbM/lX6Humd3a/Vc1SvqzWyR8/5qHNnz/TstVr1/p8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAb7Wt7DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwLV6/R7DidwpW/s7DVq2Ua9ROrUx7/VtzZ+bZm9t6/Mhj73IfqbPPn1HZGTLnZ83OmBs9M3Je1KyIOWffyyr1n9V7Rt/RPWf16uk3ok9vj57zV89eOddzD/Hp+dt7hJ7nfZrb6nHkzOvv3v28d7/DPbSupTtbfa/sHPZZf5fsDHYAAAAAAAAAAAAAAAAAAAAAoM8fPK2oFA==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0403_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{b50239e5-8339-4a8e-afb4-94550aafe73b}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt11tqw0AMBdDsrFvr0ks/AsWkiT0PSTM+ggOltaU7Y9eJH4/vr0eKapW1D9n7n30tsvfhLvdm5bKm7LSfa5e17HRddljHHfJf6RVZo7NHXasVc4/I/DwmIvOI/Y36Xx61t9VzRuxn7/O4cr7Z+3c223FmpVwjn60rZaqUR47xGbLnt2TImp0xN3pm5LyV5mSvZcXeM/qO3udR/QBGOFPZGQEAgHup9h5S8d2o2vvbMUNmpirvtxXet89W9vwZGa7WynNbapV5O81pqSpraK2Mvj01u1+lPhnnP3tEndd7/e5cPZ8RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJDht7IzrJbtb2VneZWpSr7/8hx/jrovrlSVLC29rlyDqxmOv4uo1mu48uyMudEzI+dFzYqYM3vGzP6zevc868/0HN2vt+eoXCPy9PbIOLf3s3j08WfvjTPHffqO8O7vLd9xjud+Oh7gnZ2eIbusZYd17LAGAAAAAAAAAAAAAAAAAAAAAHr8AP42ufw=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0404_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a7a9f413-d204-4dd5-9504-7470185801e4}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3Vtqw0AMBdDsrFvr0osp+QgkxuN5SJocwfmyR3NlOwETaB+P35/HR0edHb8rc82YN5NsFX09KlyjZ+0401E7zrXTLEftNM8us1TPf1T1GWR/7bWiRuVeeY9GZF75bFW6xrOu7Tfm7P0+zpTv3d4Zs83+XLfm6v3MV8y0Y5YdckRniNw/6pkcue/VvVfPWW22LPtU7j+r94y+o5/PUf0AerRUdFYAAIBIz/eiTO9H2d7ZMr1PZsmS4T07OsOVitx7RoaIfVur0oyr9mqtjHvcqejeM/qO7jmy36heI/r09uhZf3ftijXqv3q/uwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBbnVV0NgAAAAAAgDPP3zP8vgEAAAAAAAAAAAAAAAAAAAAAAAAAAFRS4W+qRvyfuyv9W2pVzp6KuH8ZcmbNF53r3ZpZ1Xo9ZmdafW+u5HmXLaqiM0Tfi4i9I57B1XOunG/VXqu/P6v1r9R39HXI2GtEn94ePevvrr2zrnVNy/lXzx1xztnxT8dG3F9q2PXe7TjXbjPtNM8us+w2R3SOb8xfPXt0BgAAAAAAAAAAAAAAAAAAAGCkP5uiJkI=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0405_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{0304fe80-2de4-4b38-9189-cb63e4fbe83e}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3Ftqw0AMBdDsrFvr0ks+AsUkwfPQSB4fwfkoiaWrPHBNwI/H78/jo2d9e7xX5YrYt5JKlf1aVH99jrXrbjvt8qrddtplj2fZo07Jn1dXzX7F3LvlrZT5KllHc67YZ/ScEp1x9P+QyM9FS7bj7MjPbWuuFd8nedZkuXqO7Pclc37W7Iy5q2eunHe1OZkzIvtH9Y7oO/MzA1BBa2XnBQAA7qHq9UfF66Njpuxsla4pq1znnq0KGaJytMyenSFr95662syV81bNWjEnekZk/6jevbUy68x+s3rN6DPao7dGZq+apcbOEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBHLZWdFQAAAAAAuJd3v0/4XQMAAAAAAAAAAAAAAAAAAAAAAAAAAAB4p+I9iiveQ7na/Z177zn97fGeXUZztNas92dGnc0SNf9M76zdI3c+k+n196p5u8xaMSd6RmT/Vd/jij1n9qvUZ7THyPG9x/Yc13rMyHn+2/P+P7/nOWf6z6xP5zpq2fW923Gv3XbaaZ+dd8nOM2OP7Cx3zp+dozd7doY7ZAYAAAAAAAAAAAAAAAAAAIB1/gAO4ol9</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0406_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{2d5e3cab-f6af-45af-8261-aea7747f8b0a}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3FtOwzAQBdDujK2xdNSP/qA8HNtjj90z0pEQTWauTSFElfJ6/f68Tr3r6vVWGStyvRlk2NeSvS45Zte9Oqvd1vOpHde101re9a1ryVw7rEP+eSX3uFrtfbJS3lX+Dq6QM/s1PvP/ITXZRuRszRWRr1emXrlkicmxeoaZ81edWzN753mj9jN6RvQ6evY+mvW019HXLX2Psl0dU9uzZS97/lwy9Wld14xzW86p3WuIUFuzcwMAAN8j4z1IxvujbPdume4ns9zfZshRUp/jZs2P2pOntfLcmlpl3qhZI+ZEz4jsH9U7ou/sfld9e/XK0KPlfJW/Wq4RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8I3OanYuAAAAAACAI/8/y/BZBwAAAAAAAAAAAAAAAAAAAAAAAAAAtVZ+juWqz+Fc8Rmiq2VeLevsDDBKtucoZ3u2c9Tzpmt79MpyVf9fL+lzt84e1XudtRlKs0TVjJlXs0fO22HWiDkjfg+i+kf1jujbu2fPfhF9anu19uh17pPze5xTcq0tnfHk+n133N0xV6+fvVbyvZKe5HX3XlnVjuvabU07rWfntczO841r2Cn/7Cy12WfnqMk9O8POeQEAAAAAAAAAAAAAAAAAAFjdH52rcN4=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0410_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{3319a841-254e-4ef4-9712-04b8c59ef8f8}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFuwyAQBdDcLFfr0au0qhRZtQMYmAG9kd7OzHywGyerPh5fz8d0mSviPCLPPvJ+RJ/FSs/lq3bZ0zHXDvfrmGn1/bxqh/vyXqP3Mnv/vfcQcT9X38Po7CNrxLOf4czv9orIXDJ35rM9Iu+o6vEZkinnWYYs9/3T/Cz5Mr4LIvJlzCXP2Cw98mTIEZ2h1/yWDD1n18zvPbdk9qrzZp1nljmjZ4zsP+r5GvHs9u4JkEVJRWcEAADGyvS9P+tvkYy/l7L9livJMytXaWXIsXuGyPmlFTW35/zZM1sq+95m7Gnl/iv17d2zZ7/aGpnpbo8761vXtqyrXaN+q/WzFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHj8VHQGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgrNX+b9lVRWeryRuda+Wz/cuTNd/VuUZnWVHk2V3Nrc004zn4r/+nPdz9W6/t33J9ab6za0qrZl3Nva6tu+fYMrOlIudnmrvbzJnzouaMmLVy/1G9V+jZs1+vXj363O1xZ/2Md/DZmtp396dr39fcue74HaVk7tna93nH60q/g1y9v8lp13u3475229Mu+9npM3CHfay+hx3yR2cAAAAAAAAAAAAAAAAAAAAA+Hp+A20esoY=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0410_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{8043ac14-f159-4f56-bbad-de474adc76d0}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3GFOAjEQBlBu5tU8uiHGZEMW3LbTdtp9k7wfsnbmaxFQSXg8vr8ebz3r0/UWWavXfrPIWLPPJPv5/JV9rbOvnfbyLHvJV3faQ9ZaOf+q2VfMvVrmlZ5bdst5lnXUPkpfG0efc+Z8WbNF5IrOli2TLPE5MmRozTHz53TW7Ki5JbNHzxx5ptnnZJqxYu+Inq+3R2Q8XovY+99trb0iHg8ZerSshzu7WrNzAgAAzHT8uyjifzNRmd79v2hGrtK6Q5YMOWpql/mzZs+YO3rmyHk7zek9o2f/Xr179I3uOavXp34RfVp7tKwfua50jfqt2udSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuLurNTsnAAAAAACwl7P3H87elzje5j0NAAAAAAAAAAAAAAAAAAAAAAAAAABgFat8Xurr57uefR09K/I8z7K2fl5tzdqra0Z/pm7prCvVI99/Z1haUdlqz7pntpIex7Ptla91XWmWd9da91JzJsfrV6s2R8Tj4qxna+4Rdae5o2eOnLfTnN4zRvWO7L9Cz+jnz4heEX1ae7Ssr11bs67ld4io7y19vY68/u73j09fv64jv53vu533NTsDe983u+wDAAAAAAAAAAAAAAAAAAAAgDv7AXvGRNk=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0412_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{93d19060-9bd5-4c65-95bc-d1cde83d22b1}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt11tOw0AMBdDujK2xdJQPpKrQJvO0Z3IsHSEosa+HoKaPx/fXI0ymijyHO5999DmscEZH7brXUTvt8lu77XT3XTLWnXbIWivnXzW7zONrpXtjlawr5MyeMfP7XdbnippcozO2ZuqdK1OeLFky5IjOEDm/x+ya+b3mlsyePbPnvLO5s2aNmPM6a/SMlbKP7DvqnAGilFR0VgAAAP56/cwW/Rku02fLFXLMylNakfN32T1i7uyZM+fVVNadRu8ysn9tRfTt3bNnv169evRp7dFy/czrVF21vk8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeR31/DWjTxWdrSRrtrxXKnO+7OcXleldtmznNWLvllyj7omWHpH3wVldOfez6z/9HWdUzd67zI+aHTF39syZ83aaM3rGyP4r9e3ds2e/TH1a92q5vvbamutKryl9Tih9Hjj7nZrX37125WfP3199foKZdrs///vfXdlO++yyy+p7vHuPW8ku+aNz1GaPznCHzAAAAAAAAAAAAAAAAAAAADDPDyFPdhc=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0412_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{c6ee4778-7bd0-46c4-bfa8-4300a3f49599}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VtqwzAQBdDsrFvr0kMohWBwLFmPGSln4FBCYs0dx4/4q4/H78/j1Ks+vd9Dtho9b7RMFb0vVtpXrzLXGvO8yjzRic/rG+fIWvLHldzzarXMvfLOmKtH1hnfwwo5W69no4/plnyjz7uW+3GWXLPuZ5myZMsT3T9Tjh79W7K09m/ZH1HHZETf2T137LVDj5H7atTaPY9dgJ3VVHRWAAAAcsv0/JjlefaY4/3vrHzRz/2R/Wtq9b5Z+/XoOavXjD61NXr9mh53K2Ld3mtmXKvHOq1rtGx/d9sZ26i/6nW/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgG/1XtFZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEpl/V+M/7la8/We71h3t5+Zp6Su9tdV7k9r1uQorQwZSmpG77MeM2a/Ot9GVc050bvvsf/omjVf1PGyyvorrZt5vV7z9lindY2W7e8eq3euebXbHK/nPT57/B1x9ZmS1yXvnf1OKqlP9xly2vW723Gu3WbaaZ4dZtnlWr76DCvnXz17dIZvyAwAAAAAAAAAAAAAAAAAAADzPAH2W7h+</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0415_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a486faa1-0795-4e91-bd28-aef06931e45b}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt1w1qwzAMBtDcbFfb0QuDwghNmh/Lkp0neDC2RvrkZem6LL8/S4qqlXUeTz337PMY4YzeZa+5d6pcM+0TtUfv/Z+0w51+kTXy+cvd735pdZ/0OucWeUc6WznHyHg039bcCmf3aX6VM/s/v1qmyOdJqzwtMslRJ0Pm/KzZGXN7//3NOGuUGXtzIvtH3WMReVvnbLk7wFlnKzsvAABABdU+H1X77FYpT5XPuHsZemU6WtnzIzKcrZF37r1rz3m9Zl2pajMi+0f1rtDzW9+W/Vr1yuix7nPnelW/7r5PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMtfZWcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACY3buycxzNWTnvVmXnOpqzQt6jVTVXz3xX633t3dktM905t/VeERX9O2mRo1dlZ6i2+6xze8/sOW+mOdEzIvtH9Y7oW7lfq14tzi3z+qv5rzx7zl5z5j2z5eu+vWb9vfXXn362NedI7f3/AD3NeE/OtNMsz41ZnoEz7DH6DjPlz85yNXt2jidkzs4AAAAAAAAAAAAAAAAAAADAk7wAZjt/Cw==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0415_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{99271679-fba5-4b28-9e84-541459f32700}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFug0AMBdDcrFfr0asukCKiUoaZ8RjzLL1NKPY3RGlY5fX6/nr96beOjvfIWrP2zSJbrb4ed7hGW9mr/k5Z68m7ZK2n7ZBxD9k/e86uUZkj79GszKvzHmWIur4zsmbMmS3jPkPE/c6crzVbz+fA3XONzDQiV8UsWXL0ZFmdocLs1vkj556df/d5R3OjZlWYcZfss9+7s94zACtcqdWZAQAAVsr4XJTt2S3TM2WWZ9z/MkRkaalq81vrznOjZ0bOi5oVMWf2jCs1s/eZ/jP6ju7ZU7OyjejT22PFuSquev9PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwJNttToHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwFnZf49xX9nyjMp2tceoPGf7vL/2fuxKjv3f9FTPtYioJ87OMLPSvKhZEXNmz5jZ/059R/cc2W9UrxF9env0nB95Xus5LXv1fJ9ozXl0vPX1M9XyXYocqt67intV2qnK50aVz8AKe1TbYXWWJ2Xf8q/O8ITMAAAAAAAAAAAAAAAAAAAAEOcHb763vw==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0416_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{46b6c136-362a-4671-8d37-2b23e6fe710c}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt19FuwjAMBVD+jF/bp088IKEKUNLGsROOpfOyEfsmZV17u/3db9NVrYyz+NXzzz6Dymfzrnbd16Psab/9VK4d9vCoHfax+h5Wzr9i5keteN675a2UeZWsK+Ssfj+rnK9qttZc77JFZe7J9JwfeY69eSKva5UsFXJkZ8icnzU7Y+6ImT1zZ86bNWuHGZFnNar3sf/IvgC7a6nsjAAAANmqvhu9vrdlZ6z0TlnlHbfC+3ZL7XoGWXvPmNtaGfOuzp21t96KnlGtf1Tv3srIOrLfqF4j+lztcWX92bVn1vWuifjsinX1ngoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwS17r9WfZuT5lPNa331fIXTlf6/lGnk3FfK19W2r0NWrJGZnruband1Se3orIMro+Xd9PuaJmv+s/c//fss2sjLmzZ86cN2tW9Pf0OGO1/tH3kMo9R/Yb1WtEn6vX9Or/1jNrz6y7+mwx4rMtz0Ktz0uR9e3ZATLt9L08/s2tbtf9ZOewj/X3sEP+7AwAAAAAAAAAAAAAAAAAAAAAf/d/voZsZA==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0416_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{d4b8a5d6-6988-4af3-b5ff-7e8eed7a3ac3}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UluwzAMBdDcrFfr0YssChSG3Fi0Bkp+BN6mickvj0k2fb2+v16n3vXf6y1kq97rnW3G/jz7+99zrPTaE/ZPTVnX3mvKXNaSr1bP/67V17By/p1zZ8sub79aJesKObNfW9Hn9ojMkc8VI/Zrba4nZpIlZ44V568++wkzR827c/7Wzh1xrWTr36t3z8xX5mTpV+rZqleLPnd7zNgWnqymZmcFAACAq7J8ny3lGJ3tyvf9nnlm/vYwa3ZtrTgzUtnXNmJOpLL0X6lvpEZlzNQnUq22H7mdilX0XgoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACc+63ZOQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGCU7P/HL3O+EdlKNXvdmXMds2U41q3znNXx9drtWmS4MqPmvaX9H6278+9W9Fi0nl3q2Xreldk9Z57N7j2vNHPUrFVnjDr3svedcb8Z3atFn7s97lyf0XtJZLvabSKfFT699/jsPXt2fHrPlR49zlXWsdux2/Gc3G1Nu65ndo6nH5Od1jA7xxOzz84AAAAAAAAAAAAAAAAAAAAAtPQD1ktxnQ==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0417_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{bbeb5eda-db6b-450d-bd4f-88a64d84823c}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFugzAMBdD+2X5tnz71rUIDSohjJxxL56Us9g1UW9Ek+nr9/rx2vevo+B1VK2q/VWz3ml3Z52Om9+eKe3rXavt512p7evJeqtYK+3hS/mp7mDW7zPE103tjlqwz5LyacXTOlnzbrFGZ72aLOqcVc1XLVCVHpSwVcmRnyJw/69yW2aNnjpw3albvGXuv9Zpx9FpP0b1n6AmQqaWyMwMAAGSqeG9ULdP2HjIzW5V72wr32dn3/VdrhdkZc0fPbKnqs1qr0ozI/lG9I/pW7tdaEX3u9rizXtWvHn+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4In26vNYdkYAAAAAAIAj2/9xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHyr6vONKz57eUSmK/0j8nz2O+u9/f7Pb74jdO+52mfrz85BS327Pmr+1dkjK2Pu6JlZ1zFy3ugZEXNm7B3Rt3fPnv16/g6+2+dujzvrW9eOWHMlW8vPtvY6Ot5y7L/PQ3vrqG/Fa3f0Xp7ZSnta6RqtspcV9rHaHrKzPDF7do6W3NkZVs4LAAAAAAAAAAAAAAAAAADA7P4A7byhXQ==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0417_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{4dc5f4fc-6b68-46c6-b7cf-f3b4ff5fca8d}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3EFuAjEMBVBu1qv16BULJBYdmCTOOPE8S28F2N9hBB1V4vH4/Xkcetanx3utXDP2XclKlX0WO5zRe1Xc6VnV9nlWtZ3uusvKZYf8qpx91drxzHfLvFPeXT5DqmTMzLlyvlX/RmrN9co2M2NPppnnNpInOtMqWUZzRGSJyDCSJXJ+a4as2Rlzo2d+m7vrrNlzrnqfMnaY1XvGmURfnwBZeis7NwAAQKYV749Wu29b6b5ylfvclqqaobUqzG6dGTG7p66e1zuz0pze/mdn9VZm796en3pHZ43sF9Urq8d7n5HXq/Vr9HsJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7uZsZecEAAAAAAB48b8NAAAAAAAAAAAAAAAAAAAAAAAAAAC4B781Ovdsd/pN19UzfjrPrN/QHa3V833KGLHD2blns53J3Zsr+pq9ute3uipLb47/HhvZozXD0fPO7PPe80y1nllkZc3uuVYiZ15RFXe7Ys7sGTP7z+o9o290z8h+Ub0i+oz2GHl972dkz+tGv7sjntv6/Xn19+VRBvZQ8b2reE1W26n6Ptl57rzH7jtUyp+dpTd7do47ZM7OUDErAAAAAAAAAAAAAAAAAAAAR/4AkCYkxA==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0421_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{87f0ee61-df35-4a00-87c6-9c16dd65f9ae}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFOw0AMBdDcjKtxdNQFUqnakpnMjD3us/Q2kNjfaUSaFcfx/XW8dKt3v78ia83aN4vHXaMq+jp82r2Zuartcyv75K1P2yNz7b7Dzvl3zb5j7t0y75R3l6w7PHdan/Ors/bkW5V3RLYZ+TLmypYpU55KOa5mic5QZXZLjlHXPGJmxnmrZu0w413PGf1H3ssAXNNS0VkBAACiZXs/+s1ynysyY6Z3yizvuBneuVuq2jWImh1xzVtrp3mrZq2YM3tGlt4t/Wf0jez3X8+empXpao8r5/ee23PezOMr15W/2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDxp6KzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEX3/zcwy/8RfJbnWUVerzPZVmXsrZ7PZGae1lzPjn382cg6s/OMuRlznP3sZ2WYef9lnZ1l5sp5FWZVmDGz/059R/cc2W/08zeyx4jvNb3ntZzbc/zoY2ffP2ee8fffvc7kOvsdj1wqfnYV78lqO1Xap8ouFfbYfYcK+aMzfFJuAAAAAAAAAAAAAAAAAAAA4JUffa9t4g==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0422_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e8390d66-2cea-4a0e-9948-84c35d3e5923}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFqwzAMBdD+2X5tnz72EBiFtbUtW7JzBIeNrZGunZI29KGPx/fX41+/9er/I6rWrPVWUamy92KHPfpbp63nKmvKTvu+rKVe3WEN1Wvn/Zd7XUVlXrXOiLy7Zp2VN+JaUT3j7H0cec2bfa1oeV9xzV5xHWvNteL6WilLVJ7TssgQN7sny+js558r57aeg4jnfMvMlfNOmrNz/8p9n3tHnkuAbD2VnRkAALiHqvcfFXNVu3+rdE9Z5T63pU7NkDm/p3adW33eyMxVsyrOuOZ8Oq+3Ms/DjL7RPXtrZraIPr0VkaH3WLWuRl8nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4I5eVXY2AAAAAACAV/5+nnH97jMOAAAAAAAAAAAAAAAAAAAAAAAAAAAAiFH5ew6rZqv4HZGzMvX2+rRW9Os99vrbaI1mWFmZ87NmZ8w9ed6q/VwxZ+f+s/Znh56R/aJ6RfQZ7TFyfO+xPc/D1mNmPPaTx717TO8+91bLezvynXjuTnxOnr6m7CzOzZnryM5y5/zZOXqzZ2e4Q2YAAAAAAAAAAAAAAAAAAABY5wenKVv6</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0422_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{45bd3448-26a9-41f5-af71-3b525de5f939}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt10tuwzAMBcDcrFfr0YssAjRBjMgWJVLKEJhNK5OP7if27fb7c5uqes2+HxmqVPZ9qHxv3tWuu+2202773GuHHR61ww732mEP+fNq1ewr5l4t80p5V8m6wv/r1fNlZqz6fFQxV2umWbnO5Bmdq0qWKzmis2RnyJyfNfsbZs6cN2tW5RmtM3t6f+rf2/vKmYhrZveMzgdwprKzAgAAY1R93q/6PnKUKzPn0TtcVqZK75dV3ndba+TPLTvD2cqcHTX/amXMvDp35rxZs2bMGT2jtzJ6r9Azsl+lPr09eq5XtSvisxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAePao7BzvMv2v7ExHuTKztVbUrIgsLX16ep+tln1G54i4p9Hzd5+dMXf2zJnzZs3aYcaKvUf0je4Z2S+qV0Sf3h4910c9c4y45sz51rMt5z6daXmWeP3e67PP0deOzkMVu/xefvq7Xs1O++yyyw577LZDdpae/Nk5vil3dgYAAAAAAAAAAAAAAAAAAACo6w8dahUZ</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0423_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{bd216029-c46e-4065-ba45-bc600ae1e971}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3FtOw0AMBdDujK2xdJS/CCWBmczD4zmWzk+b2NcBmlZI/Xy+vz63jnp6vkb0ar1vNJFq9rWIfG2uyl7r7JVpl6My7ZNll512iFor518x81ErXu/VMq+Ud5WsLXL23ultxt7XvvTefc4QNVvv39nMmSLliZSlRaYIOXaeP2v2jLmjZ7ae9zS75d/R7Dm9Z6zQe0Tm1tcZYKaamp0ZAABoJ/J7/KjZzrmuPi/NyH2e/fRZblS2SJ8vSypKjl5ZairL/Npace7omRln1VakGT37R+r7V+/WPVv2i9SntlpkqD1Xjas39yQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADY3e+anQcAAAAAAKCU/3MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAu4j0ncw9viO6tN+bapGjVdVkGFHRZmedO3vHDLNGzOk9Y8XevV8Po/Xrcf+Z1ePN+bXn1pxXek7J8TXH3R1/fvzqmKfn73L857G7viXvpYgh688u416Zdrp6LVpVll2y7TE7x475V88+O8MOmQEAAAAAAAAAAAAAAAAAAGCcH+V7hoE=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0424_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e4792e26-fbe0-43fd-af07-ef76f0504ba4}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3etKw0AQBtC+ma/mo0t/CFKaupfZ2+QMHBTazHy7jY1FMI/H99fj0rM+Pd5j1xq13l3sVqv344Q9+i3rOmddmdbyrCzreFaWtdxlDTvXyfsv97w6LfNJ53VEzhlrico5cu97M44+P3rPy5H5Wq/Ho3+2WnLtlGnG+89OeTLl6M0SlaE1R+T82gyrZp88c8d5J61p9Yyde1/1j+r5+j1AFi21OjMAAHAfO34O+fQ5aVXW3T7L7ZSntHbJMTJLbWXag5Y6de7smTPnzZo1Y87oGSP7j+rdWjN7RvaL6hXRZ+XxrceqedVzjQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA7e1erM73mW50BAAAAAADYz9+/a7x+BQAAAAAAAAAAAAAAAAAAAAAAAAAAgDvwf3nr9mblfRuv7htZmik699W9LEvvbxm5l1dVmqc0c2SO0ixXz62t2tctuv7b71Wzs83tPU92njdr1ow5J/cf1XtE3+iekf2iekX06e0RcW2qPbbluNpjRjy35Hk9j4+4zvf+jsY8WV+7jOvKtqZM68mylgzryLaG1Vl68q/OcafcqzNkzgsAAAAAAAAAAAAAAAAAAMDpfgAlSFPF</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0424_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{3b51c963-4edc-486f-9d6e-11d81199a79e}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt2A1qwzAMBtDebFfb0ccYg1LyH1mynSd4MJZE+uymC9nr9f31KtNbVe5Fxb5Xfg7VezDSfflfs67Nmvpey2/NtJ6nrqPHkr+u5M6rqPska41382Z+JhF721vOrX1tWXcyZnzvzubr9T4cLVd0tt4y9ZSnlywy1M6vml0xN3tm5rxR5rzPWpsbPWPrd5Fa9W6ZGWBGWc8zAAAA2ujlvW3p/5jVWdbebbOy9fDOfbSq57fIcLZGnps9M3Pelep1zsj9W/Wu7nmkb2S/qF4Rfe72uHN95nVnr1F/defvNgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC09lnVebay9ZZxL1tF1iMVOaunXFd6Ha2MLBH79Hl86dq9PpH7cabOXBc180o9ae7M87JmZcxpPaNl/1a9R+gZ2S+qV3SPK32iniNnro14Dkaef/TcI9+fvXO2jq8dW/p5r8/eucB9W9/dEc20nlnWMsM6ZllDdYanZR81NwAAAAAAAAAAAAAAAAAAALDmB09t6bw=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0424_03_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{1e64a11b-45e2-4dd0-aacd-38c533461f05}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VtOw0AMBdDsjK2xdNRPQluSedmeHktHQm1jXw+oD/jgOL6/jpce9e7+Xhlr5r4ZZKvo86hyTo+y1/47Za2d9rFHnpI/rqpmr5i7WuZKeatkrZCz9zVldu6WfKvOdUS2Gfky5sqWSZacOaIzRP6cftLcUed8dfbIef/NXDVrxZzZM2b2r9R3dM/R5wpw192KzgsAAMBfmT6vZfoMec4SlSvD5+zoDJG/b7haEXOjdh01+86s3pmrdlsxp3L/WedztyJ6ttTsXiP69PaIuLblOtVWPc+nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwPGrorMAAAAAAAC08HcOAAAAAAAAAAAAAAAAAAAAAAAAAAAAGC/r/zs8V3SeV7ky5BudqfXa/6ql/9297taIXi1zr2RYVZHzP2nu6pkr562atWJO5f6zes/om7nfqF4ZevRc3/u6OvOaO49veY/y7jGt97/q/+z2823Pvr76Pop8dv3+7bjXbjvttM8Ou5yf8yuqvkPl/NWzR2cAAAAAAAAAAAAAAAAAAAAARvoBYo3KZg==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0434_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e91258dc-a1dd-4dab-9f53-f2c3819f32a5}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt10FuwzAMBMD8rF/r04seAuQQA5JMSaQ8BObSxORSSRH79fr9eW2RsXadxZPPfvdZVDijd522z7tO2+e/TtvpibtkLzvsr8r5T82dMXu1zJXyVslaIWf2jHfzzdxh9L5i9hm35lr52UdmisiVJUdklruZTsswkuOJs3fMrTgv26wVZ1i5f+T3+nNWhZ4AGbTW7pwAAMDzZHseuXpO2pkx2zNcpufKLM+5rXVyhp46ZXZvVdx15Y6rZq2YM1Kz+7fOmNV7Rt/onhl7RfTZef3otSPXqf6K+J0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6vis3Vl6smbPfFW7ckRknL3DSO0475GMK/O9590925n5sucazZgtz2im1usicny+Pruiv4eV5j9p7uqZu2ZVnzN7xore0f1n9ozqG9kvqldEn7s9In8fZ17Xe03P+1vf29Nr5PWr11r+9u2+ZOQ+CmY57Tv57X+3spP2OWWXE/Y4aYfdOZ6YfXcGAAAAAAAAAAAAAAAAAAAAINIfiYlK0Q==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0436_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{981127b0-91e1-45f9-b631-6af01afe35a1}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3dFuwjAMBdD+2X5tnz7xNIQKWhIndrJj6WjSaO1rEJQ+cV3fX9dbj/r0eK/KNWPfSqpV9vNR/fl5Lnvtsc+jTtvJLvXKDvm1c/5d3wc75t4t8055e661GZl7c67MXD1jRL5ZGaOyRec7OVNUrkp5KmSIyHFChsz5O89tzbL6/bdy3klzdu4/q/eMvtGvZVQ/gBEtlZ0VAAAgU8X7orv7tsyc7+4lM7JVudetkKO1MuefMjtjbmvtNG/VrJ6qtsvM/j2V1be3VmSM6hXRJ/P83nNnn6N+a+RzGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP67u8rOBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALC7Sr8RWe13K+/yfMr3+v/nY1t2a6nR8+/6jJzbO3+kMudnzc6Yu3rmibNWPIezZ+zYe0bf6J6R/aJ6VeiRcV0bvRZHH99y3PPfvxzb+3hUrfo+R4xTX7sT9zptp5P2OWGXEz7LT9shO8tI/uwcvdmzMwAAAAAAAAAAAAAAAAAAAACRfgBYEo91</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0436_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{9c3d9b11-7b63-492c-a3ff-0daac00856fd}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt1+tqhDAQBlDfrK/WRy/7QyjiipdJJhlP4EBhdeZLYjfrsvz+LClGHFlrkbX2I+xF9lrM8Fyuo+rcKs1nzVVpPpX25zPeOI9Rx1vyjzgHufuN2Z6TmfLO8n0+wxn69LxvnflJvtZZo7JF7331TBG5RsozShYZcveiQt+zvXv3rNirR5/WPVrWn6lu5DoAjODKyM4KAADAvu07W+Y73EjvlaO8846QIztDZv+rY+a+d8Ys/Xr16tFn5vqtamfXPFM3sl5UrYg6d0bU/Xfv7XHPG8e6Tne/pwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARvIZe39n5llz/P97+3l01m/1rozIuT/JsV3DO/WiMhzV7N1/Wz8iZ3Sm3n1792y9r0e9evSZtUfL+i3/h6PrRteMfAajakWdLU9qRJ6zLe97em5GXLv9jfLtmr3rz3y+9zvhKMNezb1rmU+1/av4XFabU6X5VJnL7POocCZVyZ+d42727AxvyAwAAAAAAAAAAAAAAAAAAAD9/AHIJ9Ed</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0441_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{843a6f46-e431-4fa1-bdd6-1757aa7ff8f9}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UFuwkAMBVBu1qv16FUWlVBEgEnGMx7nWXobIPY3pIUIqX08fn8eh7Z6d/9VGSty3wxe7Tq7Zj8nR+d9tqr487ZVtX22qrRTpV22qrDDVnaYXyvnl3tcrZZ5pbyrZF0h59X3xug9rn4Gicx3JtuIc6A114hzM1umTHmyZMmQY3aGXvPPZOg5uyXDjLmV51Was8IOo3tH9O3ds+d50fM8A+6jtWbnBQAAyCTDddL+em12pqNryRm5slznZrjunp1h5vzWWnnu6JlnKvusEXPOVob+Ub0j+vbueaWisvXoc7XHjGPVuOrx3gQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3dFSzcwEAAAAAAHzy/52G7zgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2vX4G89nj30+rvX/au6PbenRWi3PYVRlnh+d4ei1j64Mz3OleZXmRM+I7B/VO6Jv7549z/devTL0uLLL2WNHHNPy+G/3+OZxnz7fPN+2v39/36v3vHe3fZOZ3Kq+dhX3qrZTpX0q7FLld/nqO1TJPzvH2eyzM9whMwAAAAAAAAAAAAAAAAAAAIzzBwQKiX0=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0442_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{ddefebfb-4d9f-46a9-ae13-b1a82ad83dd1}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt19FuwjAMBVD+bL+2T5/2gIaqFZo0jt30WDpPo/Z1Cow+Ht9fjxRVK+s87nju2WdR/Xy2tepuK+3yrNV2uusulesuO1SuK9+Dq2YfnXvGvqO/c6Izj8o74/008mwjs57NOePz2ZLxv9mV7vU2R7WzG/X9NTPXqpkq5amSZaUMvTlWmN06P2PuFedVmzVjTvSMyP5RvSPeu6N6PvuO7AfQ6mhl5wQAAO7nCs8iVTJWe4b79Gw5M+O7LDPPq8Jz95HKnh+VobWuPLenrjJvpTk9VWWHqN4RfTP7ferZU1F9zvY4c33vtSqutufb+10KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/Hmt7CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwa6+ycx3JuJc1c4d3Gauc79GqmG30rBFnNXLnvYyz7tlev9Y6OqflzHtyvMty9O+jasQZRGeaNTtj7uyZM+fNmrXCjMj+Ub0j+lbuN6rXiD5ne5y5vvfanutar2l5T7b8j295zd5vltfX7fUYVZ9+65Bv5fu0fc+vsOtqn7OV9llllxX2WHGH7Dxn8mdn6c2enaMnd3YGAAAAAAAAAAAAAAAAAAAAqOsHlJOLug==</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0445_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{714ca317-002e-413f-b2e5-1bf88ec20a41}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3Ftqw0AMBdDsrFvr0kvojzGx43l4pBkfwaHQZKQrk5K6hbxevz+vQ+86e7xVxrpz3wz2e7rOc7wu32Wn/DuttMu27JKvnrJD5po5/6zZV8ycLfdMeWfJOkPO7O8pmfOVZhuVs+T3nVHXMlsmWfrlyJChV47I+T1m1+Ro/dmsuQajZ46ct9Kcu69bz/77Gb37br8CcK60ovMCAABkkeUeafv3sP39W0TGb/eUIzNduccdkae0VswQOT9qdk3NNnPkvFGzRsyp6V8y584daisic++ePfv16tWjT2uPlvO1Z0ecUf/V8h4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT/WtovMBAAAAAACc8f8NAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHXZPn85U56Sz6iuyX12Zju3tI52+PScKxnursj5UbMj5o6eueKsEXPunnFn/5n69u6ZsVfPHrV9Ws7Xnq05V3qm5PlXn1vy3n30vLPHrz529L0rPcnr22tlVivutdpOK+2zyi4r7LHaDtFZWvJH56jNHp3hCZkBAAAAAAAAAAAAAAAAAABgnD+LS4i+</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0445_03_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{95d88a76-8ca6-495c-be04-2b9ec90eabfc}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt12FOwzAMBtDdjKtxdLRfTKh0a+LYSfosPYHYYn9ZCqWPx/fX41/POnu9x6w1ar+zmKmqP4vZP5+/teOenpWxr+zPIWM/mWc88nrLvmYz9zFyLxnX1YpnMVv+nl4ja9XsUbllbs+7UtZP5mZk7c2ZcX/59O/x0dzZ8r3OnjFb7+9XRa6obPKMyfK6vjpHRK18Fr3zq67JO8zMnLfTnNEzRvaPPPOj7wE41lLVmQEAgHuZ7Tnk6BmpOuNsz3AzPVuukiMjy6dVPX9EhitzI+dfrRVnZs7LmtVSs81orcreI/pG94zsN1Of3h4961vXqrzqvU8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL9eqzrLWbZZ8p1V1V4jM72rzDxXq3X90bqW+T3Vu/eV588wN2v2zvOyZmWc2+gZI/uP6j26Z0TfyH5RvSL6RN4bs9b23ouj33/lf5TXry3vOXv93Zqzn52tZS27nd2O1+Rue9p5P9VZ7nwmu+2hOktP/uocrdmrM9whMwAAAAAAAAAAAAAAAAAAAOT5AW/akDQ=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0446_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{6a38e154-10fe-4108-a939-b44ecf08d331}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt12FugzAMBtDebFfb0af9qFQhCqQkjp0+S0/b2sb+wqiAx+P35xEqY0Ufg9my1OzjkPW47NWq+/ove5qd9rzsJV99yx4yV+X8VbPLPL4q5a2StcL3Lfs1JXO+rNky3u+0ZhqdtyXP6GOYJctKGT7NMXN+9bkt86Nn9p53NDdqVsScav0jslfoCTBbS83OCgAA9JX5Pv/oWWRm7r3npO3P2ZlmP8tdyROVq6Uy5MiQYVSWKrN7ZpgxN3pm5LyoWZ9WphnZel/pP6LvnRqdsVevHn3u9rizPnKdul7PY3z3mgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsLJnbX/v0e/179cZZ2v36sqaq73Oerd+/t2a1hzb/i0Zoqv1/7fC7G+YGTkvalbE+TJ6xsj+lfr27pmxV48+d3vcWd/jOjxqzafX+bufOztvr97XvL539Nre+3uvU8e786G6Ffe12p5W2s8Kezm6PlRSfQ+V81fPPjvDN2QGAAAAAAAAAAAAAAAAAACAOH+QK32N</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0454_01_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{7aed82d9-1533-4b7c-ae59-c046efeaa207}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3VtqxDAMBdDZWbfWpZd8FIZCOn7ItuwcwYGWJNK1M7TJ17xe31+vW1f9dzxCthq93tUy1eq92GWffuuUdfytE9d10lquOmk91pGndl/Drrmv2nXfd8y9W+ad8u7yN2SHnNkz1jyHzM7akm1GvtZcI7Nly5QpT5YsPTmiskTM78nTuwc9+zJidsn8E2bOnDdrVoY5o2fs2HtE3+h9juoH0KKlVmcGAADiZX3ez/ouku096dP72+yMmd4ts2QprZMz1NYJs7PPjJideVbrvNaaMaN0Tsben/qP6BvdM2OviD4rr2+9Vs2rqP9PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8CRXvf/8/jsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAETb9fuydv2ur/danaU27w6Z72p1rpqsGfOWZF2du7Qy5CvNvPq+f8qZLVfJ+Xf3YtQ+texrRK7a3iVVOre1b021rDu6Vmco+XzPnH3q3JXzRs+cNWvGnJ37j+o9om90z8h+Ub0i+vT26Lm+9dre54Ka8yPPLX3uaT1+dyzq80FOJ9+7p6xrdR7rOW8tJ6zjtDWsztKTf3WOJ+TeNfPqDAAAAAAAAAAAAAAAAAAAADzJD3aSEtw=</Data>
+</DataArray>
+<DataArray Intent="NIFTI_INTENT_NONE"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[Deformed with: native232k_fs_LR.R.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[deformed_TT0454_02_R_ROI]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdNormalValues>-1.000000 1.000000</ThresholdNormalValues>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{c9b33dfe-1681-48e2-bb71-8ce50fb80cb8}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-color-mapping]]></Name>
+         <Value><![CDATA[-1.0 1.0]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[column-threshold]]></Name>
+         <Value><![CDATA[0.0 0.0]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt12FqhEAMBlBv1qv16MUfhRZcHXVmkugLPFh2NfniWrYuy/fX8tFae5/fkbVG7ZtF1oq+Ltmvz1r2qrPXk3ZZ60n7vHGPrFV9h8r5q2Z/cuYsuSvlfVrOyLzZM57Nt5V3VO672UZd04y5emXqlStTnixZeua4miX6OlTfvcrc2fdZxVlH86rMiOqfte9W797fZc9+vXoB73K2ovMCAADw3++zWpZntkzPklmebzM8c0dniJx/tirPnT1z5rxZs67UjBln5mTr3dJ/RN/ePTP26tHnavXIcPVcNa/u/k4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAG6219RoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq+VvRWVoyHuWM2OUo35n8o/K1Zp+Z9VP/qEyt31/PPC115djeGc7W2XsgKsPIipobOfsNM6P/jqrOGT1jRu/eNfo6ZOvXq1ePPnd73LnfZp539f+NlnNaj2057uiYvc+P3t97b+81NRzdK1W9Ya/oLPbZ3qPyLk/Y42k7RGe5kz86x5tyR2cAAAAAAAAAAAAAAAAAAACAvH4AzGd+TA==</Data>
+</DataArray>
+</GIFTI>
